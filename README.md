@@ -1,3 +1,4 @@
+Pre-Final Year Full Stack AI Student | React.js Enthusiast | Building projects that blend AI with great UI
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishita-pradhan-20326a299) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishita.pradhan11@gmail.com) 
